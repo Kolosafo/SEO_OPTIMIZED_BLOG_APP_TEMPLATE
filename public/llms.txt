@@ -1,0 +1,24 @@
+# BookFlow
+
+ > BookFlow helps you absorb knowledge faster with AI-generated book summaries, key insights, and practical takeaways. We also have an AI chatbot whose goal is to help users personalize lessons from any book.
+
+## Main Pages
+
+- [Home](https://www.getbookflow.com/)
+- [About](https://www.getbookflow.com/about)
+- [Pricing](https://www.getbookflow.com/pricing)
+- [Support](https://www.getbookflow.com/help)
+
+## Blog
+
+- [Blog Index](https://www.getbookflow.com/blog)
+
+## Documentation
+
+- [Widget Documentation](https://www.getbookflow.com/widget-documentation.html)
+- [Widget Playground](https://www.getbookflow.com/book-value-playground.html)
+
+## Legal
+
+- [Privacy Policy](https://www.getbookflow.com/privacy)
+- [Terms of Service](https://www.getbookflow.com/terms)

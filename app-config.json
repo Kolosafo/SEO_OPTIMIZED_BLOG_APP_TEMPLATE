@@ -1,0 +1,34 @@
+{
+  "appName": "BookFlow",
+  "appDescription": "BookFlow helps you absorb knowledge faster with AI-generated book summaries, key insights, and practical takeaways.",
+  "heroTitle": "Actionable Insights from the World's Best Books.",
+  "heroSubtitle": "BookFlow helps you absorb knowledge faster with AI-generated book summaries, key insights, and practical takeaways.",
+  "appUrl": "https://bookflow.com",
+  "keywords": [
+    "book summaries",
+    "AI book summaries",
+    "book insights",
+    "speed reading",
+    "learn faster",
+    "book notes",
+    "key takeaways",
+    "book learning app",
+    "knowledge absorption",
+    "book summary app"
+  ],
+  "author": "BookFlow Team",
+  "twitter": "@bookflow",
+  "favicons": {
+    "ico": "/favicon.ico",
+    "png": "/icon1.png",
+    "svg": "/icon0.svg",
+    "apple": "/apple-icon.png"
+  },
+  "openGraphImage": "/meta.webp",
+  "cms": {
+    "provider": "marblecms",
+    "config": {
+      "baseUrl": "https://media.marblecms.com"
+    }
+  }
+}
