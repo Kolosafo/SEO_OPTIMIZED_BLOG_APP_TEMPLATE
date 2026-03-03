@@ -62,7 +62,7 @@ cp .env.example .env
 
 Required variables:
 
-- `MARBLE_API_URL`: Your MarbleCMS API endpoint.
+- `MARBLE_API_URL`: https://api.marblecms.com/v1
 - `MARBLE_API_KEY`: Your MarbleCMS API key.
 
 ### 4. Customizing Media (Favicons & Meta Images)
